@@ -1,0 +1,12 @@
+.adsk-viewing-viewer {
+    width: 100%;
+    max-width: -webkit-fill-available !important;
+    height: -webkit-fill-available !important;
+    overflow: hidden !important;
+}
+
+.customDataGrid {
+    width: 100%;
+    max-width: -webkit-fill-available !important;
+    overflow: hidden !important;
+}

@@ -1,0 +1,466 @@
+{
+    "SITE": [
+        {
+            "view_alias": "3D ISOMETRIC SITE PLAN",
+            "guid": "7edba97f-8e0a-7e4b-4268-8d9163b6d7ad"
+        },
+        {
+            "view_alias": "SITE PLAN",
+            "guid": "006b6b30-5247-43fb-8f13-e2a47020493a-00174958"
+        }
+    ],
+    "BUILDING": [
+        {
+            "floorplan_type": "S1A",
+            "urn": "dXJuOmFkc2sud2lwcHJvZDpmcy5maWxlOnZmLklzbWlra3B5U2JDMmNYS3dyZ0QxS3c_dmVyc2lvbj0xNw",
+            "views": [
+                {
+                    "view_alias": "3D ISOMETRIC VIEW",
+                    "guid": "104232f7-275b-b8a8-fdcc-87abc6b0c489"
+                },
+                {
+                    "view_alias": "EXTERIOR ELEVATIONS",
+                    "guid": "5cea6083-7464-4fc1-bc28-62f389c26911-001fb011"
+                }
+            ]
+        },
+        {
+            "view_alias": "3D ISOMETRIC VIEW",
+            "guid": "104232f7-275b-b8a8-fdcc-87abc6b0c489"
+        },
+        {
+            "view_alias": "EXTERIOR ELEVATIONS",
+            "guid": "5cea6083-7464-4fc1-bc28-62f389c26911-001fb011"
+        }
+    ],
+    "FLOORPLAN": [
+        {
+            "floorplan_type": "A1C",
+            "urn": "dXJuOmFkc2sud2lwcHJvZDpmcy5maWxlOnZmLnJsbzdWaVQ0UWlxX19FalJ6MjZGSlE_dmVyc2lvbj0y",
+            "views": [
+                {
+                    "view_alias": "FULL UNIT",
+                    "views": [
+                        {
+                            "view_alias": "3D",
+                            "guid": "2d0d2784-785f-29fe-7e8d-667dea381663"
+                        },
+                        {
+                            "view_alias": "FLOOR PLAN",
+                            "guid": "c4b49c52-7647-4c03-9b2e-3dd3ebc1e05d-00d3f483"
+                        }
+                    ]
+                },
+                {
+                    "view_alias": "KITCHEN",
+                    "views": [
+                        {
+                            "view_alias": "FLOOR PLAN",
+                            "guid": "c4b49c52-7647-4c03-9b2e-3dd3ebc1e05d-00d3f4c2"
+                        },
+                        {
+                            "view_alias": "ELEVATION 1",
+                            "guid": "c4b49c52-7647-4c03-9b2e-3dd3ebc1e05d-00d3f50a"
+                        },
+                        {
+                            "view_alias": "ELEVATION 2",
+                            "guid": "c4b49c52-7647-4c03-9b2e-3dd3ebc1e05d-00d3f51b"
+                        }
+                    ]
+                },
+                {
+                    "view_alias": "BATH 1",
+                    "views": [
+                        {
+                            "view_alias": "FLOOR PLAN",
+                            "guid": "c4b49c52-7647-4c03-9b2e-3dd3ebc1e05d-00d3f4d4"
+                        },
+                        {
+                            "view_alias": "ELEVATION",
+                            "guid": "c4b49c52-7647-4c03-9b2e-3dd3ebc1e05d-00d3f4f6"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "view_alias": "FULL UNIT",
+            "views": [
+                {
+                    "view_alias": "3D",
+                    "guid": "2d0d2784-785f-29fe-7e8d-667dea381663"
+                },
+                {
+                    "view_alias": "FLOOR PLAN",
+                    "guid": "c4b49c52-7647-4c03-9b2e-3dd3ebc1e05d-00d3f483"
+                }
+            ]
+        },
+        {
+            "view_alias": "KITCHEN",
+            "views": [
+                {
+                    "view_alias": "FLOOR PLAN",
+                    "guid": "c4b49c52-7647-4c03-9b2e-3dd3ebc1e05d-00d3f4c2"
+                },
+                {
+                    "view_alias": "ELEVATION 1",
+                    "guid": "c4b49c52-7647-4c03-9b2e-3dd3ebc1e05d-00d3f50a"
+                },
+                {
+                    "view_alias": "ELEVATION 2",
+                    "guid": "c4b49c52-7647-4c03-9b2e-3dd3ebc1e05d-00d3f51b"
+                }
+            ]
+        },
+        {
+            "view_alias": "BATH 1",
+            "views": [
+                {
+                    "view_alias": "FLOOR PLAN",
+                    "guid": "c4b49c52-7647-4c03-9b2e-3dd3ebc1e05d-00d3f4d4"
+                },
+                {
+                    "view_alias": "ELEVATION",
+                    "guid": "c4b49c52-7647-4c03-9b2e-3dd3ebc1e05d-00d3f4f6"
+                }
+            ]
+        }
+    ],
+    "COMMON_AREA": [
+        {
+            "floorplan_type": "",
+            "urn": "dXJuOmFkc2sud2lwcHJvZDpmcy5maWxlOnZmLklzbWlra3B5U2JDMmNYS3dyZ0QxS3c_dmVyc2lvbj0xNw",
+            "views": [
+                {
+                    "view_alias": "WINE CELLAR",
+                    "views": [
+                        {
+                            "common_area": "WINE CELLAR",
+                            "level": "LEVEL 6",
+                            "view_alias": "3D ISOMETRIC VIEW",
+                            "guid": "c39a3544-3ace-b7eb-a7c4-90dc0185d6b2"
+                        },
+                        {
+                            "common_area": "WINE CELLAR",
+                            "level": "LEVEL 6",
+                            "view_alias": "FLOOR PLAN - RCP - INTERIOR ELEVATIONS",
+                            "guid": "b41ee8fb-6e39-4487-86a2-baaf3e714f88-001f7af7"
+                        }
+                    ]
+                },
+                {
+                    "view_alias": "COFFEE AND SERVICE BAR",
+                    "views": [
+                        {
+                            "common_area": "COFFEE AND SERVICE BAR",
+                            "level": "LEVEL 6",
+                            "view_alias": "3D ISOMETRIC VIEW",
+                            "guid": "33d54f1b-d984-94b6-41cc-e452e50231d4"
+                        },
+                        {
+                            "common_area": "COFFEE AND SERVICE BAR",
+                            "level": "LEVEL 6",
+                            "view_alias": "FLOOR PLAN - RCP - INTERIOR ELEVATIONS",
+                            "guid": "73215a32-bfaa-4beb-9221-50bb051d9bfd-001fe6f5"
+                        }
+                    ]
+                },
+                {
+                    "view_alias": "LOBBY",
+                    "views": [
+                        {
+                            "common_area": "LOBBY",
+                            "level": "LEVEL1",
+                            "view_alias": " 3D ISOMETRIC VIEW",
+                            "guid": "06a28a25-7c2a-9cb6-5221-ce4c61f178cb"
+                        },
+                        {
+                            "common_area": "LOBBY",
+                            "level": "LEVEL 1",
+                            "view_alias": "FLOOR PLAN - RCP - INTERIOR ELEVATIONS",
+                            "guid": "5322d51e-8ac0-40d1-9d7d-b2f7bd9fe3ae-00207038"
+                        }
+                    ]
+                },
+                {
+                    "view_alias": "FITNESS CENTER",
+                    "views": [
+                        {
+                            "common_area": "FITNESS CENTER",
+                            "level": "LEVEL 6",
+                            "view_alias": "3D ISOMETRIC VIEW",
+                            "guid": "842a1041-4064-f49f-f190-2f52db84a892"
+                        },
+                        {
+                            "common_area": "FITNESS CENTER",
+                            "level": "LEVEL 6",
+                            "view_alias": "FLOOR PLAN - RCP - INTERIOR ELEVATIONS",
+                            "guid": "5322d51e-8ac0-40d1-9d7d-b2f7bd9fe3ae-0020703e"
+                        }
+                    ]
+                },
+                {
+                    "view_alias": "RESIDENT CENTER",
+                    "views": [
+                        {
+                            "common_area": "RESIDENT CENTER",
+                            "level": "LEVEL 6",
+                            "view_alias": "3D ISOMETRIC VIEW",
+                            "guid": "4109a1cc-a1ad-82e0-8528-e05e6a0b3b55"
+                        },
+                        {
+                            "common_area": "RESIDENT CENTER",
+                            "level": "LEVEL 6",
+                            "view_alias": "FLOOR PLAN - RCP - INTERIOR ELEVATIONS",
+                            "guid": "5322d51e-8ac0-40d1-9d7d-b2f7bd9fe3ae-00207044"
+                        }
+                    ]
+                },
+                {
+                    "view_alias": "CONFERENCE",
+                    "views": [
+                        {
+                            "common_area": "CONFERENCE",
+                            "level": "LEVEL 6",
+                            "view_alias": "3D ISOMETRIC VIEW",
+                            "guid": "f31ac7f6-d246-9d1d-083e-09345fb99dac"
+                        }
+                    ]
+                },
+                {
+                    "view_alias": "POOL GRILL AND FIRE PIT",
+                    "views": [
+                        {
+                            "common_area": "POOL GRILL AND FIRE PIT",
+                            "level": "LEVEL 6",
+                            "view_alias": "3D ISOMETRIC VIEW",
+                            "guid": "ce014763-0983-063c-66e0-3160944c8432"
+                        }
+                    ]
+                },
+                {
+                    "view_alias": "AMENITY CORRIDOR",
+                    "views": [
+                        {
+                            "common_area": "AMENITY CORRIDOR",
+                            "level": "LEVEL 6",
+                            "view_alias": "3D ISOMETRIC VIEW",
+                            "guid": "97e989d4-5e89-8234-89bf-b4d78012b1f6"
+                        },
+                        {
+                            "common_area": "AMENITY CORRIDOR",
+                            "level": "LEVEL 6",
+                            "view_alias": "FLOOR PLAN - RCP - INTERIOR ELEVATIONS",
+                            "guid": "5322d51e-8ac0-40d1-9d7d-b2f7bd9fe3ae-0020705c"
+                        }
+                    ]
+                },
+                {
+                    "view_alias": "GENERAL",
+                    "views": [
+                        {
+                            "common_area": "GENERAL",
+                            "level": "LEVEL 1",
+                            "view_alias": "FLOOR PLAN",
+                            "guid": "6c84e770-16b7-4838-809b-282c2a1d0135-001fbfc5"
+                        },
+                        {
+                            "common_area": "GENERAL",
+                            "level": "LEVEL 6",
+                            "view_alias": "FLOOR PLAN",
+                            "guid": "6c84e770-16b7-4838-809b-282c2a1d0135-001fbfcb"
+                        }
+                    ]
+                },
+                {
+                    "view_alias": "CONFERENCE CENTER",
+                    "views": [
+                        {
+                            "common_area": "CONFERENCE CENTER",
+                            "level": "LEVEL 6",
+                            "view_alias": "FLOOR PLAN - RCP - INTERIOR ELEVATIONS",
+                            "guid": "5322d51e-8ac0-40d1-9d7d-b2f7bd9fe3ae-00207050"
+                        }
+                    ]
+                },
+                {
+                    "view_alias": "POOL-GRILL-FIRE PIT",
+                    "views": [
+                        {
+                            "common_area": "POOL-GRILL-FIRE PIT",
+                            "level": "LEVEL 6",
+                            "view_alias": "FLOOR PLAN - RCP - INTERIOR ELEVATIONS",
+                            "guid": "5322d51e-8ac0-40d1-9d7d-b2f7bd9fe3ae-00207056"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "view_alias": "WINE CELLAR",
+            "urn": "dXJuOmFkc2sud2lwcHJvZDpmcy5maWxlOnZmLklzbWlra3B5U2JDMmNYS3dyZ0QxS3c_dmVyc2lvbj0xNw",
+            "views": [
+                {
+                    "common_area": "WINE CELLAR",
+                    "level": "LEVEL 6",
+                    "view_alias": "3D ISOMETRIC VIEW",
+                    "guid": "c39a3544-3ace-b7eb-a7c4-90dc0185d6b2"
+                },
+                {
+                    "common_area": "WINE CELLAR",
+                    "level": "LEVEL 6",
+                    "view_alias": "FLOOR PLAN - RCP - INTERIOR ELEVATIONS",
+                    "guid": "b41ee8fb-6e39-4487-86a2-baaf3e714f88-001f7af7"
+                }
+            ]
+        },
+        {
+            "urn": "dXJuOmFkc2sud2lwcHJvZDpmcy5maWxlOnZmLklzbWlra3B5U2JDMmNYS3dyZ0QxS3c_dmVyc2lvbj0xNw",
+            "view_alias": "COFFEE AND SERVICE BAR",
+            "views": [
+                {
+                    "common_area": "COFFEE AND SERVICE BAR",
+                    "level": "LEVEL 6",
+                    "view_alias": "3D ISOMETRIC VIEW",
+                    "guid": "33d54f1b-d984-94b6-41cc-e452e50231d4"
+                },
+                {
+                    "common_area": "COFFEE AND SERVICE BAR",
+                    "level": "LEVEL 6",
+                    "view_alias": "FLOOR PLAN - RCP - INTERIOR ELEVATIONS",
+                    "guid": "73215a32-bfaa-4beb-9221-50bb051d9bfd-001fe6f5"
+                }
+            ]
+        },
+        {
+            "view_alias": "LOBBY",
+            "views": [
+                {
+                    "common_area": "LOBBY",
+                    "level": "LEVEL1",
+                    "view_alias": " 3D ISOMETRIC VIEW",
+                    "guid": "06a28a25-7c2a-9cb6-5221-ce4c61f178cb"
+                },
+                {
+                    "common_area": "LOBBY",
+                    "level": "LEVEL 1",
+                    "view_alias": "FLOOR PLAN - RCP - INTERIOR ELEVATIONS",
+                    "guid": "5322d51e-8ac0-40d1-9d7d-b2f7bd9fe3ae-00207038"
+                }
+            ]
+        },
+        {
+            "view_alias": "FITNESS CENTER",
+            "views": [
+                {
+                    "common_area": "FITNESS CENTER",
+                    "level": "LEVEL 6",
+                    "view_alias": "3D ISOMETRIC VIEW",
+                    "guid": "842a1041-4064-f49f-f190-2f52db84a892"
+                },
+                {
+                    "common_area": "FITNESS CENTER",
+                    "level": "LEVEL 6",
+                    "view_alias": "FLOOR PLAN - RCP - INTERIOR ELEVATIONS",
+                    "guid": "5322d51e-8ac0-40d1-9d7d-b2f7bd9fe3ae-0020703e"
+                }
+            ]
+        },
+        {
+            "view_alias": "RESIDENT CENTER",
+            "views": [
+                {
+                    "common_area": "RESIDENT CENTER",
+                    "level": "LEVEL 6",
+                    "view_alias": "3D ISOMETRIC VIEW",
+                    "guid": "4109a1cc-a1ad-82e0-8528-e05e6a0b3b55"
+                },
+                {
+                    "common_area": "RESIDENT CENTER",
+                    "level": "LEVEL 6",
+                    "view_alias": "FLOOR PLAN - RCP - INTERIOR ELEVATIONS",
+                    "guid": "5322d51e-8ac0-40d1-9d7d-b2f7bd9fe3ae-00207044"
+                }
+            ]
+        },
+        {
+            "view_alias": "CONFERENCE",
+            "views": [
+                {
+                    "common_area": "CONFERENCE",
+                    "level": "LEVEL 6",
+                    "view_alias": "3D ISOMETRIC VIEW",
+                    "guid": "f31ac7f6-d246-9d1d-083e-09345fb99dac"
+                }
+            ]
+        },
+        {
+            "view_alias": "POOL GRILL AND FIRE PIT",
+            "views": [
+                {
+                    "common_area": "POOL GRILL AND FIRE PIT",
+                    "level": "LEVEL 6",
+                    "view_alias": "3D ISOMETRIC VIEW",
+                    "guid": "ce014763-0983-063c-66e0-3160944c8432"
+                }
+            ]
+        },
+        {
+            "view_alias": "AMENITY CORRIDOR",
+            "views": [
+                {
+                    "common_area": "AMENITY CORRIDOR",
+                    "level": "LEVEL 6",
+                    "view_alias": "3D ISOMETRIC VIEW",
+                    "guid": "97e989d4-5e89-8234-89bf-b4d78012b1f6"
+                },
+                {
+                    "common_area": "AMENITY CORRIDOR",
+                    "level": "LEVEL 6",
+                    "view_alias": "FLOOR PLAN - RCP - INTERIOR ELEVATIONS",
+                    "guid": "5322d51e-8ac0-40d1-9d7d-b2f7bd9fe3ae-0020705c"
+                }
+            ]
+        },
+        {
+            "view_alias": "GENERAL",
+            "views": [
+                {
+                    "common_area": "GENERAL",
+                    "level": "LEVEL 1",
+                    "view_alias": "FLOOR PLAN",
+                    "guid": "6c84e770-16b7-4838-809b-282c2a1d0135-001fbfc5"
+                },
+                {
+                    "common_area": "GENERAL",
+                    "level": "LEVEL 6",
+                    "view_alias": "FLOOR PLAN",
+                    "guid": "6c84e770-16b7-4838-809b-282c2a1d0135-001fbfcb"
+                }
+            ]
+        },
+        {
+            "view_alias": "CONFERENCE CENTER",
+            "views": [
+                {
+                    "common_area": "CONFERENCE CENTER",
+                    "level": "LEVEL 6",
+                    "view_alias": "FLOOR PLAN - RCP - INTERIOR ELEVATIONS",
+                    "guid": "5322d51e-8ac0-40d1-9d7d-b2f7bd9fe3ae-00207050"
+                }
+            ]
+        },
+        {
+            "view_alias": "POOL-GRILL-FIRE PIT",
+            "views": [
+                {
+                    "common_area": "POOL-GRILL-FIRE PIT",
+                    "level": "LEVEL 6",
+                    "view_alias": "FLOOR PLAN - RCP - INTERIOR ELEVATIONS",
+                    "guid": "5322d51e-8ac0-40d1-9d7d-b2f7bd9fe3ae-00207056"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+.treeRoot {
+    box-sizing: border-box;
+    height: 100%;
+    padding: 96px 32px 32px;
+}
+
+.draggingSource {
+    opacity: 0.3;
+}
+
+.dropTarget {
+    background-color: #e8f0fe;
+}
+
+.rootGrid {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    height: 100%;
+}
+
+.externalContainer {
+    border-right: solid 1px #eee;
+    display: grid;
+    grid-template-rows: 64px 1fr;
+    padding: 32px;
+    display: flex;
+    flex: 50;
+}
+
+.btnAdd {
+    left: 32px;
+    position: absolute;
+    top: 32px;
+}
+
+.cost-code-mapper ul,
+li {
+    list-style-type: none !important;
+}
+
+.rct-tree-item-arrow {
+    width: fit-content;
+}
+
+.rct-tree-item-li-isFolder {
+    width: 365px;
+    height: 41px;
+    top: 1.056640625px;
+    left: 1px;
+    border-radius: 4px 4px 0px 0px;
+    background: #eeeeee;
+}

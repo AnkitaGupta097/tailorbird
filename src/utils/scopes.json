@@ -1,0 +1,30 @@
+{
+    "Demo Existing": {
+        "parent_scope": [],
+        "child_scope": ["Install New"]
+    },
+    "Install New": {
+        "parent_scope": ["Demo Existing"],
+        "child_scope": []
+    },
+    "Refinish Existing": {
+        "parent_scope": [],
+        "child_scope": []
+    },
+    "Repair Existing": {
+        "parent_scope": [],
+        "child_scope": []
+    },
+    "Remove and Store": {
+        "parent_scope": [],
+        "child_scope": ["Reinstall Existing"]
+    },
+    "Reinstall Existing": {
+        "parent_scope": ["Remove and Store"],
+        "child_scope": []
+    },
+    "Add New": {
+        "parent_scope": [],
+        "child_scope": []
+    }
+}

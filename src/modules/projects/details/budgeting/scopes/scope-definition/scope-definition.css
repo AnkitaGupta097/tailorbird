@@ -1,0 +1,76 @@
+.Scope-definition-container {
+    margin: 0 !important;
+    margin-top: 15px !important;
+}
+
+.Scope-definition-container .Scope-definition-search-label {
+    margin-bottom: 10px;
+}
+
+.Scope-definition-container .Scope-definition-categories-container {
+    border: 1px solid #bcbcbb;
+    width: 100%;
+    overflow-y: scroll;
+    height: 350px;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    min-height: 375px;
+}
+
+.Scope-definition-container .Scope-definition-category-img-placeholder {
+    margin-top: 5px;
+}
+
+.Scope-definition-container .Scope-definition-category-item-label {
+    margin-left: 15px;
+    padding: 10px;
+}
+
+.Scope-definition-container .Scope-definition-base {
+    color: #57b6b2;
+}
+
+.Scope-definition-container .Scope-definition-items-radio-label.default {
+    padding: 5px;
+    background-color: #eee;
+    border-radius: 15px;
+    font-size: 12px;
+    font-weight: 300;
+}
+
+.Scope-definition-container .Scope-definition-items-radio-label.selected {
+    padding: 5px;
+    background-color: #004d71;
+    color: #fff;
+    border-radius: 15px;
+    font-size: 12px;
+    font-weight: 300;
+}
+
+.Scope-definition-container
+    .Scope-definition-inventories-container
+    .Scope-definition-category-selected {
+    background-color: #eee;
+}
+
+.Scope-definition-container .Scope-definition-items-container {
+    border: 1px solid #bcbcbb;
+    width: 100%;
+    overflow-y: scroll;
+    height: 350px;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    min-height: 375px;
+}
+
+.Scope-definition-container .Scope-definition-items-container .Scope-definition-items-header {
+    border-bottom: 1px solid #bcbcbb;
+}
+
+.Scope-definition-container .Scope-definition-items-container .Scope-definition-scopes-container {
+    display: block;
+}

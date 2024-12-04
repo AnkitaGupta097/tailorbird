@@ -1,0 +1,17 @@
+.ck-editor * {
+    list-style-type: inherit !important;
+}
+
+.ck-editor .ck-content ul,
+li {
+    list-style-type: disc !important;
+}
+
+.ck-editor .ck-content ol,
+li {
+    list-style-type: decimal !important;
+}
+
+.ck .ck-powered-by {
+    display: none !important;
+}

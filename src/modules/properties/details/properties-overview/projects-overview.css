@@ -1,0 +1,93 @@
+.Projects-overview {
+    display: "block";
+}
+
+.Projects-overview .label {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000;
+}
+
+.Projects-overview .input-icon {
+    margin-top: 10px;
+    border-radius: 5px;
+    padding: 5px 12px;
+    font-size: 16px;
+    margin-right: 12px;
+    background-color: "#fcfcfb";
+}
+
+.Projects-overview .input-icon :focus {
+    border-color: "red";
+}
+
+.Projects-overview .input-label {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #000;
+}
+
+.file-modal {
+    height: 150px;
+    width: 600px;
+    background: #dfe0eb1a;
+    border: 1px dashed #dedede;
+    border-radius: 8px;
+}
+
+.data-source-name {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #004d71;
+}
+
+.file-upload-modal .MuiPaper-root {
+    max-width: 700px !important;
+    overflow-y: inherit;
+}
+
+.version-selection {
+    height: 50px;
+    width: 70px !important;
+    padding-left: 10px;
+}
+
+.version-selection svg {
+    color: #0000008a;
+    margin-right: 0;
+}
+
+[data-title] {
+    font-size: 14px !important;
+    position: relative;
+    cursor: help;
+}
+
+[data-title]:hover::before {
+    content: attr(data-title);
+    position: absolute;
+    top: -3px;
+    padding: 10px;
+    background: #fceded;
+    color: #d90000;
+    font-size: 12px;
+    font-weight: 500;
+    border-radius: 5px;
+    text-align: center;
+
+    /* white-space: wrap; */
+}
+
+/* [data-title]:hover::after {
+    content: "";
+    position: absolute;
+    bottom: -12px;
+    left: 8px;
+    border: 8px solid transparent;
+    border-bottom: 8px solid #d90000;
+} */

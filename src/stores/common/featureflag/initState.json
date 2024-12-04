@@ -1,0 +1,85 @@
+{
+    "data": {
+        "container_2": {
+            "defaultValue": true
+        },
+        "rentroll": {
+            "defaultValue": false
+        },
+        "container_admin": {
+            "defaultValue": true
+        },
+        "rfp_2_bidding_portal": {
+            "defaultValue": true
+        },
+        "property_feature": {
+            "defaultValue": true
+        },
+        "property_back_fill": {
+            "defaultValue": false
+        },
+        "combine_line_items": {
+            "defaultValue": true
+        },
+        "reno_wizard_consumer": {
+            "defaultValue": false
+        },
+        "production_2": {
+            "defaultValue": true
+        },
+        "property_missing_data_upload": {
+            "defaultValue": false
+        },
+        "data_upload_through_whatsapp": {
+            "defaultValue": false
+        },
+        "bid_leveling": {
+            "defaultValue": true
+        },
+        "sow_exh_a": {
+            "defaultValue": false
+        },
+        "chat_functionality_enabled": {
+            "defaultValue": false
+        },
+        "class_4_budget_download": {
+            "defaultValue": false
+        },
+        "new_common_area_and_exterior_mix_table": {
+            "defaultValue": false
+        },
+        "key_stats_enabled": {
+            "defaultValue": false
+        },
+        "interior_detailed_stats_enabled": {
+            "defaultValue": true
+        },
+        "exterior_detailed_stats_enabled": {
+            "defaultValue": false
+        },
+        "common_area_detailed_stats_enabled": {
+            "defaultValue": false
+        },
+        "precise_values_in_rfp2": {
+            "defaultValue": false
+        },
+        "interior_key_stats_enabled": {
+            "defaultValue": false
+        },
+        "exterior_key_stats_enabled": {
+            "defaultValue": false
+        },
+        "common_area_key_stats_enabled": {
+            "defaultValue": false
+        },
+        "site_key_stats_enabled": {
+            "defaultValue": false
+        },
+        "forge_viewer_model_browser_enabled": {
+            "defaultValue": false
+        },
+        "tbp_2_data_admin": {
+            "defaultValue": false
+        }
+    }
+}

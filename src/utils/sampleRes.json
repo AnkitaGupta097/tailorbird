@@ -1,0 +1,3168 @@
+{
+    "data": {
+        "containerTree": [
+            {
+                "name": "Repair and Make Ready",
+                "items": [
+                    {
+                        "name": "Angled Walls",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["46669b268e64467693adf755a9252be9"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Appliance Cleaning",
+                        "scopes": [
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "afbd096987704816b8ca14c6830ea3ad",
+                                    "4b9422a8dee746599b8bfc94c454ab98"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Banjo Vanity Top",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["758a9586a6924b0bad07b7f9ae1090e0"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bartop",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["c18dd8a14ddb4dd9bf9c32c5da98435b"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Headknocker",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["702890a640da456990b8256a97eaecc3"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Kneewall",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["4bc987daec204330903e1271fa6d741f"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Make Ready Cleaning",
+                        "scopes": [
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "238406c164a4487da675377154437266",
+                                    "6c364457865b4a82a5296846194afcd7"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Phone Jacks",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["47ded0a8d65f45829e5e9256f5c4894b"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Soffits",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["c87e032af16b48d79461e4ca0fba8538"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Drywall",
+                        "scopes": [
+                            {
+                                "name": "Repair Existing",
+                                "containerItemIds": ["9b94b925a11342f9b86537e9df21fdbd"],
+                                "isSelected": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Doors and Millwork",
+                "items": [
+                    {
+                        "name": "Bifold Door",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["b04474ecbd534f8f8cbef0b2f4459cb6"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "f030bd0cc35a4d02b3322dbc58421aaa",
+                                    "eb72e3d9e2da4e3887c60fe68c8ef6eb"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bypass Door",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["322ee25e48a74e72b56e94a172abad39"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "4a76993ab6454cbfbbf69cb77a25b9f3",
+                                    "e053e41a0ccc447b9cdd99636bd6bbb0"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Crown Molding",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["cff8f6c81d5645e88d84ee27275d27c3"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "2088066751d44e308c9bc8e69d38d3d1",
+                                    "9c35bae8ae984a788d9a1e2b0e3e10ca"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "a6e6ada2a9d94d5fb274a7cf7d14902a",
+                                    "712843e9dc4f4d38aa35b35455217d7c"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Door Trim",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["b1bb6accbe9f45c9bdac23718434e7d7"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "25cc4efbe94e401d811528db6a5d93d4",
+                                    "4742097b810a40238d151d86df683d2b"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Double Bifold Door",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["6976a31310464b0b8a3633d9d9a575c6"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "0a6644426fb34698b19c8c81450d80c5",
+                                    "cd2d5620820b4792a0fcab2a126bdf4b"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Double Patio Door",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["2109c7212ff14e139915eec5982363a6"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "79a170404a994e8e96de5e73f0f92071",
+                                    "3c4285bbfb664a8d9c09e1ce7004ec8e"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dummy Door",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["6e3ce35889af4601aff480f86e409b35"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "881b0013e4984a2b8dfa6026a5d452e3",
+                                    "b98d406c28d64b5cb7385bf596c3cde9"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Entry Door",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["a7149df79fbc49d1b5b94f59f3e83b2a"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "7a5ba9a377dd4b49b1d873623d5cd79d",
+                                    "cb6ee723dc75460a92cd621f3325f7a3"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Passage Door",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["cce3a211e9d44368809efd11e4d3fb0a"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "989d8ef68d104b0b9607d991d39ebc71",
+                                    "c82cbe1f572b45ebaab1b329ffbbc538"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Patio Door",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["7af1607e6d254238a514aca825069d79"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "bc5989042d3e47228c7a59bfc6cae484",
+                                    "ff98dd76139c43ea975aaef0ce7724c2"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Patio Storage Door",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["081353d0801042c992bbe2149e4ea22c"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "661f77f7672f49eba9cb314388de47e2",
+                                    "9ec98f52e80f434eba487d0ee26474b9"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Privacy Door",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["f1952e6272a848a49f482dbc848d726f"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "3ed3d0f528ba44a297f17dc25ca01273",
+                                    "8788a0b2d9d1404ab0c59b1a853376e9"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sliding Patio Door",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["ed156c73316d4df990bb08ac878ed18e"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "f623abb476584027b262a7818258e8ec",
+                                    "7ecd19ac0e3b49b48a5fe77f207d2a9d"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Paint",
+                "items": [
+                    {
+                        "name": "Ceiling",
+                        "scopes": [
+                            {
+                                "name": "Refinish Existing",
+                                "containerItemIds": ["2c8f54fc76a94e49adb03efeb858c120"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "f2b90c067db345c095a5cb76636c475a",
+                                    "656297350f8b43cf8df4eaa29ea7ad25"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Doors and Trims",
+                        "scopes": [
+                            {
+                                "name": "Refinish Existing",
+                                "containerItemIds": ["fa80a468b1244aaa8f78165af62da36d"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "93a06fc3e3064e32844fad40d6be101b",
+                                    "eed9feb18cd04d90b4893c79d484990f"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Paint Primer",
+                        "scopes": [
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "fb6e9789bdbc491690748e3206cb8524",
+                                    "4ff616f9d29b442a9d93af10d0771e04"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Popcorn Ceilings",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["10021d10fea0425dacdb12f877cabfcf"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "ed76f620170d4053921fa3bb1a15e0b4",
+                                    "b968329b32844886ac325dadea045d7d"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textured Ceilings",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["b83e10aaaa5546678fca068e3b97b0cc"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "385a568ad6854cc79f80340476b18d7d",
+                                    "c345b889ad7d4f58a71e496311ed2572"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textured Walls",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["c8117045ebd14282addb92aada21e044"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "2ac1066e50434e15ac991d18ff962574",
+                                    "becd8d7c58014d17ae726540788b7d6a"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Walls",
+                        "scopes": [
+                            {
+                                "name": "Refinish Existing",
+                                "containerItemIds": ["19b61b902d8241cfab0a32eb6f77d9e3"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "98f52984aaca4a4b9fc72c62b39c71e6",
+                                    "32f17f51af314a78bb8d8cef29200f05"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Plumbing",
+                "items": [
+                    {
+                        "name": "Angle Stop",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["a9d4ecfee8a84a6898a72475752e30d2"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "25b1a7181eee4083bb93db67fc0958da",
+                                    "4442a3a5e3aa49ca8cf7e790d774a505"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bath Tub",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["7bf141bb5b344d399ccda70abe6632b5"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "f974ad4bc61f4a15b4a1632ab9338145",
+                                    "306ec323ad374ef6b1ae0295545714fd",
+                                    "a60c303578e248ddb4ad36ec51f18206"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Refinish Existing",
+                                "containerItemIds": ["635cc2fad048481fa93e3bf9f27d3cd1"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "9b0d3ca443684936b19f84d158dfccf8",
+                                    "5d7e98e842504d39bb1f68abc4b9e852",
+                                    "976be03076b241fba703487096e902ae"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bath Tub Trim",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["eabe9e9f1d614d939ae5958eaf04cb35"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "2110574742d84d7caafdd147b06c4699",
+                                    "cccac3fba5d04255bbac7203cd91b7e2"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bath Tub Valve",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["4e05976de8a54772afb87f1ecde3d24b"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "bc1b1edb738e404594cfd2a3a40f225e",
+                                    "c83aff3f5d62429bb878c6a18d41bb4d"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bathroom Faucet",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["a9ca6f3f3428440883406be86377d2f0"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "b2dbbb343a164b459be5362f865b7145",
+                                    "c11b809ff3cb4bd78a9b6a23b5954bd2",
+                                    "91e9018157374c87b0aea99c04d93877"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bathroom Sink",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["fd3cf961996248bfa000e57f6964dfd5"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "d347e876193b465aa83737a7b9a39740",
+                                    "f5993dbadf3c46e0b3cb9c50fd60d6b4",
+                                    "cc4b8e04dbb54bc08c2e19529018f877"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Garden Tub",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["fab564e96b2e47aa894bf89f7c192195"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "12a0887c060845d78cec8b3ae99c6518",
+                                    "00c52ca727e141128c118681fba0f6e1",
+                                    "801fe36782f0433484597d5a4f3d99b0"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Refinish Existing",
+                                "containerItemIds": ["31b4f741b7e94bc89de2b0842a084fb4"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "a48bd68dbf3947cdb20b4a5e5aaa6682",
+                                    "125f3834cff44c2db1b31ff731c783f1",
+                                    "e4d890cbee32438a9044402842b44369"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Garden Tub Surround",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["9e4a0da79c464364a216a0f08957e734"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "59f41296c2db4b2ea2f8462539e11568",
+                                    "15770827ef7840ea9e3e3c82159cd242"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Refinish Existing",
+                                "containerItemIds": ["b34ce5bf321a42018bfb7925e3b61ce0"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "a6cab3abcfc54f3d9051e3316b1bea88",
+                                    "e515812529674d81be9864ffaf1d14e8"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Kitchen Faucet",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["b73610be8fce420782ea5388c058739b"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "6c9c00cac1744816bc328e564523a50e",
+                                    "4bde0bf88f664bbc864157abca6e3b3a",
+                                    "3f296160768c43be9872f99d71b34c70"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Kitchen Sink",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["31c152cab2714421a40a6027523b8d22"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "37530275e07a4ed89f02745f30778946",
+                                    "6dc4ed906eb04486ba73a2dab8464110",
+                                    "f74c2f21b529429cbd19728d2043503e"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pedestal",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["576e67dcd97b4d4c8205627e3538a3a0"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "ceebb0ec28c64b1f8ef697940fe498ad",
+                                    "295e9e6d9f6d4f0ebb3de4a9add28cfe",
+                                    "d03b1f07b879474195862f3988d59ecd"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Second Sink Plumbing",
+                        "scopes": [
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "0162689159ee408faeca1cc8210c99ac",
+                                    "d96d1b18936e44748184ba3e529fc171"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["3dc89c5d95b94137b1760fa7843f6ca4"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shower Head",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["c5636d3652434cca863266ed9c796956"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "e0f3dc7b44fb4d6ab0a4ed7724b2a489",
+                                    "8c5dbb3217644a9890d116502a0e5bfd"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shower Pan",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["b2b12ae51de64ff293e9c52af83d7689"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "ff539e55045f41cd8a8852216bc15dc6",
+                                    "e21632a8a6e540e8822eaea3786c01be",
+                                    "818591cf712a49ae8ee569436b5e2b85"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Refinish Existing",
+                                "containerItemIds": ["c141fd9dcd7048ac8785655118ba3b90"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "04b6d35e341f4a57bb115b35deeb0bc3",
+                                    "54a82a0307d24b35b6a158ad8b09836b",
+                                    "770df745deb443ae84785bd5e1229269"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shower Surround",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["8d8be29079314c5b9509ac4582d1368d"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "33053db0dcfd4b4aa46455fbf74684e3",
+                                    "10ea2fd0f87842ea9d173969380f2df4"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Refinish Existing",
+                                "containerItemIds": ["ba9347d951c544da850a3f564c3be8db"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "3e23616a20d04003a0483c3b51d5a627",
+                                    "70fcfc06b3d84884bdb77a4322778ee2"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shower Trim",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["b3ae488ca51e4d9097e3220582383e43"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "a8f628f1e6714805a59d336d8166c747",
+                                    "04754609d8da413e9ca9c5d8f7f0d7ca"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shower Valve",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["55b65dab2a714f9ab9c997b0718fec94"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "467eb08ea3fb40e7b3aee250e8580f51",
+                                    "18b0b53f9a38452cb6c0ca229f305746"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Standard Tub Surround",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["da653cd55cda4f8f8ac724245e060a72"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "23a8ef16754148df96878a2b601bfe9d",
+                                    "32ce5a3ff74e4ed0ac0cb4639ba79983"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Refinish Existing",
+                                "containerItemIds": ["b61a2e2bbb8f4ff9a111f82660c8a6b7"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "ef67732e03d945bebba1ff0aa5286721",
+                                    "ea75493620404266a13cbd1ba032c7ea"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Toilet",
+                        "scopes": [
+                            {
+                                "name": "Reinstall Existing",
+                                "containerItemIds": ["b51b2a01ea9945e995bb858d1d39f92d"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["9556cd8156634b30aaf48e886453df2f"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "9f4363e5759e4c26b29f8ac90444895d",
+                                    "89a3c01fef3c4c3ca0802f033bd73451",
+                                    "1b25dcbba05b4b53aba0117b08d13be2"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Toilet Seat",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["66fe0b1f8b6949898de48c15450d4ab7"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "5e61437c3c694c3b81f50d19c5e62e5a",
+                                    "5dd2ba2f71f849969ba6be0d95cb8132"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Waterheater",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["f15a6630d82e4a1d913d6c5046ee44cb"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "b99d646439164caeb23c9561257e31e0",
+                                    "e5f970f3d16c4064b36fc8ba38a78e1b"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "HVAC",
+                "items": [
+                    {
+                        "name": "Centrial Air System",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["38983de4145f41bc8f3a59489eb4e911"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "b9240d5dd0f34e188c4d9a12b32742c1",
+                                    "3f4a55bfdf1941848fbe54347f23ec7f"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Minisplit",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["e0414227f7ba4d61b9ffbda0fdad1d53"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "3114b3f857d4427b915a7c7b1311feb1",
+                                    "427e1df2e85f4f0498b37db137acb825"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Reinstall Existing",
+                                "containerItemIds": ["1929097091904f6187ede9cfdad27a32"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "PTAC",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["bef0804838c242a6bd57ab8374157855"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "25c1273def1843df8c74e1603a9c52a7",
+                                    "6128bbed175040a19202fd434cc2e304"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Reinstall Existing",
+                                "containerItemIds": ["ec3e56da5b6342dc9d94a6bb2a35d308"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Thermostat",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["14ce379af8eb4442ba80c0ee45e82dc2"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "49f0f0bd879f43668302b383871e0681",
+                                    "555adefc6c7a431cbe661d68f112b5a4"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Vent Grill",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["48eae145f52b4846baf9a86f34e9f33d"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "9934f2062a6f4558afca2d5ea436d292",
+                                    "37b08b6dcc2e47358014a5e49b252aa7"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Reinstall Existing",
+                                "containerItemIds": ["603c8380b87a4a0b988ebce5ddf93fe4"],
+                                "isSelected": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Kitchen & Bath Finishes",
+                "items": [
+                    {
+                        "name": "4 inch Splash Strip",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["ae0f8d253bb1485ca6ab893e51c4b327"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "a433e516261e41d2981080a1f1c98705",
+                                    "c17b98c804124c9a90137e6701fa7d8d"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Backsplash",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["79ff9338afee47a48e2a68b51ecfea45"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "947a7616d3314a46ba595894612efaa5",
+                                    "1e26dcfd71a24d4383b8771617c61928"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Box Sets",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["2c6f7d8815c44104a9bf1a158d24408e"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "7d46ee73d5d04be4b5a7ab51f85e35e3",
+                                    "4c2c03e8307a4fb7a3898a02ceaa4776"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Refinish Existing",
+                                "containerItemIds": ["47ba68560560487cbcbe3fb204efa360"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Box Sets with Integrated Top",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["9e9d3f8dba0f4606a106e50e240a5c07"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "88da99bf42224a9190697cdf1109d480",
+                                    "20f58a285b2d45679eb6d62c12612a7f"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Countertops",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["f1008dc155a44adbb954b3cd8f3d726c"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "ebcfc4a3833b41fe8c027278a80c3f55",
+                                    "6acd524ec8aa4b88855ba01d29ec1405"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Refinish Existing",
+                                "containerItemIds": ["5d4ba80cab1c4222a30719c110958158"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Desktops",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["91dafe1665fb4cd482b50f4d587d6e63"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "b2b9e884285a40a9aa66423792c7404f",
+                                    "352c2323972a4a3a8544f4fa6a5c83ea"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Refinish Existing",
+                                "containerItemIds": ["313f5cf5bcb4435880a5f18588b11e90"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Doors",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["8509f13348c04f8bb2b94a3d9697854e"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "6a62b88844254bd5b02b294ba0824a24",
+                                    "139d896b7f3e44eaa792187c2e561af3"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Refinish Existing",
+                                "containerItemIds": ["3df4d265e3db49fbac85fa02e9fbd45e"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Drawers",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["f7fa522b02cb4a679039d73dd83e5156"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "846c773f3ef249798085a5fe59f76ab6",
+                                    "25ed41f04f814ad394f850e29ff59999"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Refinish Existing",
+                                "containerItemIds": ["70d00d31c3e74952aafd8b3ad0315416"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Edge Trim",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["4c4a42e498fd4777b8f23f79dd2d96ee"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "bbfa7efbdc5446f29e48952f1b806a0d",
+                                    "21e51c35482c48708c8176c5987560da"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hardware",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["2f2e0cafe7834133b78faa709a558d8e"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "3f26cff1603143519f89974798fa0b25",
+                                    "49d2b840b3e54a87a1ce81992ba7932d"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Lower Box Sets",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["cd0a1780c1bc47c2b26ccf522c5a690d"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "2bbbf5e179b943aa88b19a87389e4dfd",
+                                    "f9ebedac85094803aa6e877d7a106919"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Refinish Existing",
+                                "containerItemIds": ["456e4a6efa1747f9b339696db27c829d"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sidesplash",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["578d252f3fe44bf5ac8aaf994c8dab4c"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "3c542cebc30e41ef86c2568a41677a04",
+                                    "d30bf8d182a44c4f8ada4783b354a71f"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Splash",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["861949c0b65546c885412409615a685a"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "f2fa2309e1e740b7b702db5d77da8a6b",
+                                    "94dbd72fbb3148ac95025956904966be"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Refinish Existing",
+                                "containerItemIds": ["e10aec775344402bada8ad2a9b9b962d"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Upper Box Sets",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["939b63ace2e84d04a3ce83d8b63a825d"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "88f0aad925a44ababd9151fae9e92366",
+                                    "d35205503b164398aaa814814be331f8"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Refinish Existing",
+                                "containerItemIds": ["13eadfab415b495093c62b8654208c96"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Vanity Tops",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["e5ba58854e324d8d8cd3b305204065a7"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "5159e6077e5e4bb6970f501196f5bd35",
+                                    "b5ab47b6cb4541eea3db1fbbabf9f68a"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Wall Tile",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["2228106b3bd14da99e89cd8bf8c8d253"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "f5ad5de76322454da4650c8287e51b08",
+                                    "215ae555c433448290c251c3f90ac473"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Refinish Existing",
+                                "containerItemIds": ["9f5b9174530047e984f9707bcbb6caa4"],
+                                "isSelected": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Flooring",
+                "items": [
+                    {
+                        "name": "Acoustic Mat",
+                        "scopes": [
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "d48c54f6898e47269fcff861034fc2c1",
+                                    "553c5e76f49d44e7a4166e2c27a1ae88"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Baseboard",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["f989aa0ea1fc42ea91c33af3cbbe9865"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "88198e8c84734df68547ff2bde044df7",
+                                    "dcbce6f6bb4a429081b1f5648fbeea20"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "8887383d7f544a1ebccbff18b87b3739",
+                                    "d6e342139c63414e903e9a0e1ada4bcd"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Carpet",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["b4d0a394a9134708b6cc925b003decf1"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "bdd3eb7ef2e94003885225f8a7b710d1",
+                                    "ea3d720ecf5e48b481754306a9f4b50a"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Concrete",
+                        "scopes": [
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "33916a87354442519fd6c1a93dfe4622",
+                                    "e947af4ae4144fa295bc70ac44924801"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Refinish Existing",
+                                "containerItemIds": ["d8dad7144a3040a39628e7e6974eff32"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hardwood",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["a5a96b7b4a6646d6a4520668ba6b297e"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "d57630a0fc1c4c49b9f680be5044002e",
+                                    "43f49d27a99941d187c8de264b471f24"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Refinish Existing",
+                                "containerItemIds": ["7b7d87fa19284fce9e5b81c74b24aad7"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "LVT/LVP",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["9bd55c73eb084b04939594d95943b610"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "e3010b3783234dfa8a27b2c0b21ad401",
+                                    "792133662c33406bb51bbe4fce4505e0"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Refinish Existing",
+                                "containerItemIds": ["a3eac4b669544aa68856d54d7dc8e98c"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Quarter Round",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["1db8119dcce24c9db3216e534b59233a"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "ab9db8f6c9aa4b63b9f4777d955c3914",
+                                    "7c286c708b934f14ba66ccb495259aaa"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "f278441ab1d04279b5abffcf9367e030",
+                                    "580a9bb61d004700980a68d3bc0dc98d"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Subfloor",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["aac12a37c1e94b2cb26cdcd19148129e"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "6b6443582b7d4f1cb7092e9107448295",
+                                    "f3c5c55384bf4db796838844cedcd67d"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Repair Existing",
+                                "containerItemIds": ["ea40a2b4e5b345e49b14589973c5fa44"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tile",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["9f57fec863084cda98256325d3c51931"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "6a6097e29b374645b5c3c1cce02b25e1",
+                                    "2786eb8d4d744c7fa4feb1ef5f099664"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Refinish Existing",
+                                "containerItemIds": ["ecd36dca5c6e4cad856f6e1897efaf1e"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Transition Strip",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["ecf3961c1695458f862c5f7f4e9b42ed"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "6655f53481fe4b0f9eb08d4cc5abcdd8",
+                                    "6278cd784fde4513998c01c46b28537f"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "11add4517a6742858271068ac94afd8d",
+                                    "06e82fed379741f2928940722c9cf88b"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Vinyl",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["e5a8e30d0fc24c90926207f6e1d2cf2e"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "425645c4e22a45a0ac8ebb2dc833d569",
+                                    "7911d73dcd00485cad0060fd3769a27d"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Refinish Existing",
+                                "containerItemIds": ["0296eff0e5bb4c54ad06d330c12d7bd6"],
+                                "isSelected": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Blinds",
+                "items": [
+                    {
+                        "name": "Horizontal Blinds",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["30f9b08c3d504c129880133fbc8ee461"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "2ff6b462c3024932a3b2ea45c830cb7c",
+                                    "5806f572325f4f5eaf026e2af936ba08"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Vertical Blinds",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["82707c6e124d4613a5d038e93fd125c0"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "9ec360fecd6f4517be2cb419f43bb738",
+                                    "cc127d61e23d4f79a208ba1f98db5c78"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Electric",
+                "items": [
+                    {
+                        "name": "Blank Plate",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["5e9fa2fa80ba40728ec1d81a8b053d99"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "ea1924ddaf72496cba861c510caae914",
+                                    "fc2dc97b35e8476ca1a482cf36dacae5"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "c13004e063bd4ebeb6c6798909a7e15e",
+                                    "014a5863bbf542aea08c70618bfdc435"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Circuit Breaker",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["9ef023cce50543369d0806fb5eecc0e2"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "87ac39bcb4474533ac9c313230bb1d63",
+                                    "288b5425c3db49b39d5fa055eec2f9cf"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "b7de1a12778a4bf398625a26d509ca5a",
+                                    "071dc363e0314d7982c2efb62b7ba22e"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Combo Switch Receptacle / Switch Plate",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["34c8c757f8d84fae85248675a688fc8a"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "2510eb3157ea459293021db9c6a609c3",
+                                    "578e8cdf97fe4d078bdf19f853c03581"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "c34183383c2845a2bab5caeb469a4b8a",
+                                    "02b3f8e421f14899bf98e3bc5cd681f2"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dimmer",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["0b1c9b5fbe0449d79a52714518ceb9cf"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "d557504d43d34ba5962f38b6c86a080c",
+                                    "f97a9aa0d60f491abdde96ff99a1ccc8"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "cd9e20be2ea04145a007a3e165214c7a",
+                                    "cadf7dc193a640f8bc86e40ba9befb6f"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Double Gang Receptacle Plate",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["2c91f1b770564bcaa9849b3a7534dcf6"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "e6554616fd08413096f9dba5fe94f9f7",
+                                    "d215ca5bd07a4fde8c096ea5b8b7ba1c"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "3ad90706310849318cc5985dc2fa076e",
+                                    "6726c050acfb4b4e862f6c2985f48d2c"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Double Gang Switch Plate",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["5d788c4212064e48b6a15dbbf61945bc"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "d3e7eccbbfe6459ea58034cb35c4760b",
+                                    "c5c998ab73c24e19a366af89088fe6c8"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "817c47e4f83c4bc59db04c3fbca81bbd",
+                                    "3382805e4ed64fe4b30a5163a58ce34f"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "GFCI",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["1a6333d455724fe3bce03914cb2a238e"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "ba6e48c01738463ca59ac5e689c43dca",
+                                    "51f9ea526a284bfca4f163a01469b6f1"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "8943fd7e5fc144d5bf54b4f08919fd2c",
+                                    "9ccaf1e358f8417298c4e96dbbdc5dc8"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Microwave Circuit",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["004963370d25420090143070846e4e98"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "ec2c49e5c27545f69821c699de281c7a",
+                                    "b2af1bbb6fab4ab185c85b6b923ffed2"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "2ff16afd00a04d299e731afe08d73c9b",
+                                    "4efd7a905c604d4bbdd620f5aa6651bd"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Outlet Switch",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["6da64945779e43c29a85866ae47c70e6"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "95751f2d2ecf4a4da4826796058ac9b4",
+                                    "88141b084ac4441e830535e3b9c04550"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "ea1e2939c77a4d32a09bdb2fab27c9c9",
+                                    "2a123658d6364d9299d754a2021293ba"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Receptacles",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["a38d2627acdd4f1598ea9dd433e8c889"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "c16a57b8309c4176a23c362d5f83446a",
+                                    "56db537b92b64a5eb56536f0e2cac711"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "8cdd04a739394a5abd7cac4a5db31596",
+                                    "88c7573608b54c7586541c018a117d01"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recessed Light",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["91f13dec09b045789dccc0aedfc581bf"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Single Gang Receptacle Plate",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["fd036ca1507c41fe967ca80d5addade0"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "9ecad2b57b814a27b93d6ca1e772a6e9",
+                                    "812e18eb9ceb4296aa7bf054ada00568"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "8e91c26988f648ce93b6a08d076d4f19",
+                                    "e45c0f01045e42c286c16f8100ad2790"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Single Gang Switch Plate",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["9ca6a97898a1439cb7c651d4d7985c9e"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "fca8a6c7069c4f3b9fd97dfff308c5b0",
+                                    "401c37228c494ef58271fb9970192a00"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "4fd718c0b8fd49d5916bffc0197df379",
+                                    "4fc0775a919947b48378d56185dbf0b3"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Smoke / CO Detector",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["ed7535ee3b82493c9afc60a0ce710824"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "7bbfb1c6d06a421781f91ef2e45c9cfc",
+                                    "9b1ac78651b5494face80f24a797a9e3"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "2612bbebd2db4a21a0676d0bad6e5ba9",
+                                    "e8b95f77d3484349b19584b542f4ab79"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Switches",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["ca31e1e015e94f6e8fac89136fa82942"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "e49103923c864b2aa1f9e3a86c8f0a4c",
+                                    "f67f557ccb11454ba915e6cb4f79fb58"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "ca1ec91e995a484fbc3fc11c3354abd9",
+                                    "07d8fa8d758c4ce4b926fb0a37df0e70"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Telephone Plate",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["73b59d5c8359401aa7c76a10b604924c"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "ec59b675553b4111a126f4336e192f1b",
+                                    "d49f39855ada4355b71e95084db90b5a"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "901b5db44b854ff798bd7a6243ee9f19",
+                                    "b3ea4b7c25094b14a2d385b472da6402"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Triple Gang Receptacle Plate",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["00e6bc4cfafd4424a96816402d60757d"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "775f6fb88fb84430b6e99e2546262866",
+                                    "be272cd1486b45aea8b82ea95e015bb0"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "6f93b00f6d19420681df9d77ae8dfa19",
+                                    "84bc2c27b1114c66b5810b681ef8f42f"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Triple Gang Switch Plate",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["370ff018506e4103900f62e98d35b6e4"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "39fc4ff8a09e42079d6ee1b517a0a405",
+                                    "c1b855f94b394682ab2a25e3e62c8758"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "d1aa6177d6374d5796528113412d2195",
+                                    "82cbe1fb585a4deb8ba2c9a1c111dc10"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "USB Outlet",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["10205645970f4148b135a2d73051b181"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "a236d303146645f5b53cf47db7a5c30a",
+                                    "f7c49bd3fe6f4f6d8683860a57c80614"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "c4ea0524a3c24b47a7574d302d20fe1f",
+                                    "6fbcf2a7ecc64decaf8753ee6666c80f"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Vacancy Sensor",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["3f38449a91e348f9b57189fbed40f1ed"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "fcf8c79697584192ba50f0308f4dcd91",
+                                    "9af1a2cf0f8b449485c28d02a6eba2e3"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "b2e266d2410d4c1997b05b4799801b71",
+                                    "778294260e7c4c75afffa3e29d4da8cd"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Video / Data Plate",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["6061398e73a64673b492a0bf79326afa"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "56dba76546de49cab3f8f846292fa6f9",
+                                    "44ff76dea72a4b91833671c9328020f8"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "a3cc8ebf9e904749835fd7c7f2dff41a",
+                                    "b76e45c6566c46c1af81a00f4ccd61b0"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Wall Hung Telephone Plate",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["07412e7121024149b2968482477e6ee2"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "f96d6f4e2263432592adee2d00c134a0",
+                                    "bad466b6c1034272ab6c1d105abcbcb3"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "8089202561d347989bcbd67cc6329bc4",
+                                    "50b97112f7ad4b388e34c063895630a8"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Lighting",
+                "items": [
+                    {
+                        "name": "Can Lights",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["b4725dcbba064071a5f1ec6bf6b4f8a7"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "d24d9412a9a94317ab49c72aa67351ca",
+                                    "36ffbf4f5b3b44dcaa7faeac12570f61"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "4b7fa90ad8a849738814248130beea1e",
+                                    "47d640a0d9f841e0a41c56ba08124926"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Remove and Store",
+                                "containerItemIds": ["41c9051961b04ce68e49c850b384e0fc"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Reinstall Existing",
+                                "containerItemIds": ["7089cc3f85284a4dbbcd480c7cb8c33b"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ceiling Fan",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["eea00d9d0ecb41549ac10a5fdf79cd69"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "5c1df0f16b7140858c3318d5b23b7b27",
+                                    "6592815c08cf48dbb92d5f8152aaaae6"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "d35521e9a56c4bfb99586b34518d0998",
+                                    "c0420d95c99d44b8b107415f75730888"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Remove and Store",
+                                "containerItemIds": ["46349417d8df4d03a7f03c01ef0df5b2"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Reinstall Existing",
+                                "containerItemIds": ["950defe6c6554be382ef487c9b8297b2"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Exhaust Fan",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["61cc518c0fe740b9bee31410e58e4713"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "4f5e518c77404041aa8a871eb05eadba",
+                                    "480fb3a9ef664bf7a579fd0dc0efea10"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "3320a760771d4fa78e3f121b0a0bd1f0",
+                                    "10f1272f05cd49d1a09f3ccde4c38d07"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Remove and Store",
+                                "containerItemIds": ["35d0da10e5274cba992b01c145ccfa92"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Reinstall Existing",
+                                "containerItemIds": ["680e2aa9867f40a9b7ec3abecc49729f"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Flush Mounted Lights",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["00721378b372415e9ca5ad730b5f8d1c"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "83b8df385737446fa606422e34b56f95",
+                                    "dd8c0f52a65e4ca58fce50155c5b66a0"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "e23e55827704458f9d4bda0dcb80b95e",
+                                    "e61d5b615b934e9a987ca1e1fd6ce2c8"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Remove and Store",
+                                "containerItemIds": ["9069fac991f04a08a3a8f0d650d64dcf"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Reinstall Existing",
+                                "containerItemIds": ["7e9f773d598b4c7f8bfb71a8ea74c6e7"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pendant Lights",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["f08b4ea50f1c45a48d2c02820d4e8abc"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "caf32972d3ce4489a658b59c12a19bb9",
+                                    "d1f6abcb611542bf898efbd7159ff7e8"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "90b70501a4bb492d95b17edf437ad592",
+                                    "53904a9afdd1411ebe8e0438f59cfbeb"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Remove and Store",
+                                "containerItemIds": ["392c51a4be6c413a949ab0ee3b6f4ded"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Reinstall Existing",
+                                "containerItemIds": ["65a75c4991f348bca5ad763041e6edd4"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sconce Lights",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["3666962f226b49b1893955bbe2240823"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "debcb9994e074bc781f806f6a3ef3c7b",
+                                    "7181ea0641504997994e4049203801bf"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "9ef4b333a2544661b5561a8f75bace15",
+                                    "2797088c7eb04ba984a6fcd8db7be5f9"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Remove and Store",
+                                "containerItemIds": ["4ac71ee9ca504ed1b35d929b3441a6cd"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Reinstall Existing",
+                                "containerItemIds": ["eb00c574dfe54687902c08bb34388d20"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Vanity Lights",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["c86c4be81f4f44af8864d843b6800730"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "6855197a50e849f1bf5ab919ff796260",
+                                    "c29984f034904a769facd8ff171ec7bd"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Add New",
+                                "containerItemIds": [
+                                    "89cf67434f94479f9b6192a86f8a7c8b",
+                                    "225cda71376e45e680eb460745a10a16"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Remove and Store",
+                                "containerItemIds": ["82eb1b68529f478691ae988197742bf0"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Reinstall Existing",
+                                "containerItemIds": ["cafbfac329d34dae81563f545dba721d"],
+                                "isSelected": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Appliances",
+                "items": [
+                    {
+                        "name": "Cooktop",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["d966aec565504b55acdfeab985fd442f"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "7ae8845f020b403fa716e71c6009f6da",
+                                    "048b7b5a4fed4823ad0d7fed7d2c75cf",
+                                    "dabf00a30ea14e02a08c5d3e61b4fd04"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dryer",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["0c1eb10d57824395b29c60de935a04b5"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "7008cef13d2a4515a074798c7ff7e7e2",
+                                    "be02aebb18e945388b6e1c10caae38a0",
+                                    "c1e4b4bb43b04b64a34cef642a8141fe"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Garbage Disposal",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["28382107c0a8447ba60422da5a6f819f"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "d96bc3b839894a48836aca332c2a64b9",
+                                    "c6ccef410d2e46dab7bf6e9c14505ad4",
+                                    "bd952e6f27ba4a7cba7cc99cd4c511e9"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Microwave",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["a524735092ee493da13f98d30f3c31b9"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "fa3dd18d82f6425ab85798611c290e49",
+                                    "7c50746991224b4aa969f4770d27a4e0",
+                                    "dedc2b677a174fdcad99912afcf4f011"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Range / Oven Electric",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["e78f07730697415198151ee2fb07541f"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "9ddce4cc49204f32af956134ae67d31b",
+                                    "6664364d3fa14cb29d48567eb36c7e02",
+                                    "0c5a684bd2c942e99f7edfc27ea134e6"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Range / Oven Gas",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["bef4877957c842b1bd41c04ecdbbd584"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "06e48ae5261b4a9f87a6a354c171cb6f",
+                                    "cba78917735a46e39200b2530fe243ab",
+                                    "c3017c919c4247129286ff9d5d45400a"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Rangehood",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["5feac5d106564a6d91477012665d11ef"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "de42245d4d9642b7a77ad33d04601560",
+                                    "c6e1caea5c46433ea491b3e361d8d1e2",
+                                    "0057e4f63ebd4f7ca0b4f3cf6e09e757"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Refrigerator",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["3d28503241c44e54afc7f213ad3f35b2"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "e0b7c2434ab04dd48632214fb840846d",
+                                    "f89d0cab55b74c6ea453d99ca20f07b1",
+                                    "41904f56c4b04ff1b715f1d41d40133c"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Washer",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["2b3c92a0ba3a4396aa14fe13e8f55434"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "c89916c0566d4817aaf797a36012eed6",
+                                    "a89accc0d473484683f99b6d3e457fe0",
+                                    "864143beab0a4509b98270955c4d1d66"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Washer and Dryer Set",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["6e2edc83bb474c5fa1f4ccaa15fc4636"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "0355be3ec0604d61a111e4777e261a49",
+                                    "9fc0ccf367114d4cb08a5d89f05ebf9c",
+                                    "52a95164661d43099050998e07d300ed"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Wine/Beverage Cooler",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["9104493f78204019a575d887de0db5d4"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "e525ef683604445e91709a6aec643bf7",
+                                    "ff082013157440e49db6192af24f0733",
+                                    "40f25037ee0345e3b4bcca2ca2504190"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Bath Hardware",
+                "items": [
+                    {
+                        "name": "Frame Kit for Mirror",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["93c958caa16e402f82e00643f6083459"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "6cb9babc9e234719a975ed02c127c1c1",
+                                    "1f3e5df46628411ca41309a48f99d5bc"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Remove and Store",
+                                "containerItemIds": ["cf93fc2028814085bcbc7baeb71a5c04"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Reinstall Existing",
+                                "containerItemIds": ["da8831b560da4cafae7d6ce014c4160f"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Medicine Cabinet",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["de2ad49ba5924ee9ae57cfe8aaa91fce"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "e78fd690b909467aacff5c3bd1fbef94",
+                                    "84512149a1404827a6c2f0414bb31292"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mirror",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["eec4fa525ee746d9bd10b617511c0a4c"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "8243f22bad23461493ba117bdcf7b38b",
+                                    "8db4cdd577f1469eb2ecb90c8b6fb5f1"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Remove and Store",
+                                "containerItemIds": ["742ae2da925e4e6e8381a904e0d1cab7"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Reinstall Existing",
+                                "containerItemIds": ["16bc484450024eecb591d6de819c68d7"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Robe Hook",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["c2f878b8ae3c434ba4a702ae4c16d684"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "9134c11903b34f40b8659d80b65aa130",
+                                    "0c5b952e39834e28ae9da4324e3c20bc"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Remove and Store",
+                                "containerItemIds": ["08fb75bea641402f8948d765d45d4129"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Reinstall Existing",
+                                "containerItemIds": ["0e9bd4c548c44940be26be53f77418c7"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shower Door",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["75f0e5742ba5463fbee1d14aee9a2e94"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "9be17476bba14668b3c23e051a472692",
+                                    "78b57a87cb3241cb9685b8c15a00a7cf"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Remove and Store",
+                                "containerItemIds": ["7bc1589c2ab34d4585cb30c850261178"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Reinstall Existing",
+                                "containerItemIds": ["ef64d30e74e344499acb82a4474b2819"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shower Rod",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["6581b5b0f8fa4ea09c3ddaa803de80d5"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "e687a08c8d104d958eedb799a04fd6e1",
+                                    "144f93961dc44db0a29badb69329d43e"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Remove and Store",
+                                "containerItemIds": ["47870bf2d58c488684b8ff401b618d6d"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Reinstall Existing",
+                                "containerItemIds": ["5df5cee55ffa40029f4eac1088c59837"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Toilet Paper Holder",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["5efdefaff8e54e90b69eb9a72565513b"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "fc928a5a36bc4d438a2134cd1df9bbee",
+                                    "f6a0725f69d0480f85d205f6c623e056"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Remove and Store",
+                                "containerItemIds": ["13033fdc2b9749feb3f80c662bafacc6"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Reinstall Existing",
+                                "containerItemIds": ["80ed098175d7488c92a2dbdcd4691972"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Towel Bar",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["ead592e864494fc3bbef03e6a56d445d"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "9475ec152b06447b88427112457df202",
+                                    "8d1a3d78be46432d96a5b9a301bc5afc"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Remove and Store",
+                                "containerItemIds": ["08f2d354aabf4dc097f2df042262b058"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Reinstall Existing",
+                                "containerItemIds": ["789ecea88deb412eaaa26f9e5e04a078"],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Towel Ring",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["3fbf8df0eaa04d9f94c7c78fededbf06"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "0bdf3ef6f4d9409485d999f429602100",
+                                    "b006e5ee7eb24f3186c8bdca0ec0793f"
+                                ],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Remove and Store",
+                                "containerItemIds": ["b8ebdfb6ad564d51873a6da6fd868732"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Reinstall Existing",
+                                "containerItemIds": ["3fe03b33d37b491695365667978ebba6"],
+                                "isSelected": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Hardware",
+                "items": [
+                    {
+                        "name": "Bifold Door Hardware",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["e8d3328186cd4d7293cee87a322df600"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "d7cbdc28d3e34c75bd63d975c82afd9f",
+                                    "2a4d1b4f4e014f9bbb9563b64b4bd516"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cabinets Hardware",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["e9431faee5c04054abd54cb251a9a909"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "f7b1f0ac7e624eef9fde1c89818dff4a",
+                                    "a956dc3801ac42ccb1908d3bdbee765b"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Closet Hardware",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["33817946f35d40c7a9214925bb092f5e"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "dabbec67d0574b2ab20c4f63bf13d70a",
+                                    "4a196c34865f4e7fa4e460827a4734b6"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Entry Door Hardware",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["7690fad2d2954d0db0a3ae47bd13ed73"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "8529499fd42d4336a020ee3939a5dcf3",
+                                    "736c025a7c184286b54ace4759327b61"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hinges",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["b6a5a11f19e648bb8b5ad691998f5580"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "b55f996d335c45e0820d1983e34caaac",
+                                    "ecb1fe37573d4c948965f5dd13c1928f"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Interior Hinge Hardware",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["b212881b2f7c4fcd9f0949c8c40bf94f"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "fd7daf06f9634e0e809dbbcf917a26b7",
+                                    "c409457b5537431ab7d537e8da346ff7"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Passage Door Hardware",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["0955ecbd66714d608cafb3b8cddb2d58"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "1b3d7d68a1c04fe989ac89f16a64fd51",
+                                    "c657427a7d3f4436973f5d17511a0e41"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Patio Door Hardware",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["21138c1b7fdd419ea04e48bd4e89d687"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "487eadb55cf84fb58db2ddbec857ef29",
+                                    "48d4659154cf4510b9812e9e031c3e23"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Privacy Door Hardware",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["73e6232226a34ffc9000c6b4b620554e"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "f751a2148d5e4238afa22ec36d98dad1",
+                                    "9ac6eed1dce04ec7b64e41593bbee4da"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Vanity - Hardware",
+                        "scopes": [
+                            {
+                                "name": "Demo Existing",
+                                "containerItemIds": ["cf578882772240cf94e223c7bbdce422"],
+                                "isSelected": null
+                            },
+                            {
+                                "name": "Install New",
+                                "containerItemIds": [
+                                    "10a8721a0d1f4e73833a5fabc694a0b3",
+                                    "686859fc4236466da3942d279dcc2a53"
+                                ],
+                                "isSelected": null
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

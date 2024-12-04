@@ -1,0 +1,9 @@
+export const DATA_SYNC_IN_PROGRESS = "DATA_SYNC_IN_PROGRESS";
+export const DATA_SYNC_FAILED = "DATA_SYNC_FAILED";
+export const DATA_SYNC_COMPLETED = "DATA_SYNC_COMPLETED";
+export const USER_OFFLINE = "USER_OFFLINE";
+export const DATA_SAVED_TO_DEVICE = "DATA_SAVED_TO_DEVICE";
+export const DONOT_EDIT_PAGE = "Please donot edit this page right now.";
+export const CONTACT_TAILORBIRD_PART1 = "Contact Tailorbird if it's not resolved in";
+export const CONTACT_TAILORBIRD_PART2 = "minute.";
+export const DEFAULT = "";

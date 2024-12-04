@@ -1,0 +1,45 @@
+.Alt-package-content {
+    width: 100%;
+}
+
+.Alt-package-content .Alt-package-auto-feild {
+    width: 100%;
+    min-width: 41rem;
+}
+
+.Alt-package-actions {
+    margin-left: 20px;
+}
+
+.Alt-scope-container .Alt-scope-card {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 15px;
+    background: #fff;
+    box-shadow: 0 0 21px rgba(0 0 0 / 11%);
+    border-radius: 8px;
+    margin-top: 15px;
+}
+
+.Alt-scope-container .Alt-scope-card .label {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.Alt-scope-container .Alt-scope-card .selection {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 1px 15px;
+    gap: 10px;
+    height: 30px;
+    background: #eee;
+    border-radius: 50px;
+    margin: 0 10px;
+}

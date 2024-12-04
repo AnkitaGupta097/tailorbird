@@ -1,0 +1,30 @@
+.excel-like table {
+    border: 1px solid #b0cbef;
+    border-width: 1px 1px 0px 1px;
+    font-weight: 100;
+    border-collapse: collapse;
+    padding: 10px;
+    width: 100%;
+    overflow: auto;
+}
+
+.excel-like TH {
+    background-repeat: repeat-x;
+    font-weight: bold;
+    font-size: 14px;
+    border: 1px solid #9eb6ce;
+    border-width: 0px 1px 1px 0px;
+    height: 17px;
+    padding: 2px 4px 2px 2px;
+    padding: 5px;
+    line-height: 17px;
+}
+
+.excel-like TD {
+    border: 0px;
+    background-color: white;
+    padding: 2px 4px 2px 2px;
+    border: 1px solid #9eb6ce;
+    border-width: 1px 1px 1px 0px;
+    padding: 5px;
+}

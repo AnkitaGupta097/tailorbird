@@ -1,0 +1,103 @@
+.rct-tree-item-arrow {
+    width: 16px;
+}
+
+.rct-tree-item-li {
+    margin-bottom: 5px;
+}
+.configuration-button {
+    width: "124px";
+    height: 32px;
+    top: 8px;
+    left: 712px;
+    border: 1px solid #004d71 !important;
+    position: inherit !important;
+    background-color: white !important;
+}
+.configuration-typography {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+/* .rct-tree-item-li-isFolder {
+  width: 100px
+} */
+/* .rct-tree-item-li-expanded {
+  background-color: #CCCCCC;
+} */
+
+:root {
+    --rct-color-focustree-item-selected-bg: #eeeeee !important;
+    --rct-bar-color: #eeeeee !important;
+    --rct-color-focustree-item-hover-bg: #eeeeee !important;
+}
+
+/* .rct-tree-item-li-selected {
+  background-color: #EEEEEE;
+} */
+/* .rct-tree-item-arrow-isFolder {
+  width: 100px !important
+} */
+
+.rct-tree-item-title-container-expanded .rct-tree-item-button {
+    background-color: #eeeeee !important;
+}
+
+/* .rct-tree-item-title-container-isFolder .rct-tree-item-title-container-selected {
+  background-color: black !important;
+
+} */
+
+.rct-tree-item-button {
+    border: 0.5px solid #cccccc !important;
+}
+
+.rct-tree-item-li-isFolder {
+    border: 0.5px solid #cccccc !important;
+    border-radius: 4px 4px 0px 0px;
+}
+
+.rct-tree-item-button {
+    height: 50px !important;
+}
+
+.parent-div {
+    border: 0.5px solid #cccccc !important;
+    border-radius: 4px 4px 0px 0px;
+}
+
+.configuration-img-folder {
+    padding-left: 6px;
+}
+
+.button-typography-text {
+    padding-left: 10px !important;
+    /* font-family: IBM Plex Sans; */
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 14px;
+    letter-spacing: 0em;
+    text-align: left;
+    /* background: linear-gradient(0deg, #000000, #000000);    */
+}
+
+.button-typography-cost-code {
+    /* font-family: IBM Plex Sans; */
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    /* background: linear-gradient(0deg, #AAAAAA, #AAAAAA), */
+}
+
+.typography-folder-cost-code {
+    color: #aaaaaa;
+}
+
+.rct-tree-item-button {
+    padding: 0 !important;
+}

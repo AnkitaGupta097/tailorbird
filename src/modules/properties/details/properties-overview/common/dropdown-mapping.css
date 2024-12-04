@@ -1,0 +1,43 @@
+/* dropdown-mapping.css */
+.mapping-container {
+    display: flex;
+    padding: 20px;
+}
+
+.table-container {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table-container th,
+.table-container td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+}
+
+.column-select {
+    margin-right: 10px;
+    padding: 5px;
+}
+
+.delete-button {
+    padding: 4px;
+    padding-left: 8px;
+    padding-right: 8px;
+    background-color: #e74c3c;
+    color: #fff;
+    margin-right: 4px;
+    border: none;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.column-span {
+    flex-grow: 1;
+}
+
+/* Add this to right-align the Entrata drop-downs */
+.select-container {
+    text-align: right;
+}

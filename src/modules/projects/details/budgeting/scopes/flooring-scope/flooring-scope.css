@@ -1,0 +1,54 @@
+.Flooring-scope-save-action {
+    margin-right: 20px;
+}
+
+.Flooring-scope-container .Flooring-scope-accordion-summary {
+    margin-left: 10px;
+}
+
+.Flooring-scope-container .Flooring-scope-accordion-details {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.Flooring-scope-container .Flooring-scope-takeoff-splits-box {
+    margin-left: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.Flooring-scope-container .Flooring-scope-table-cell {
+    padding: 0;
+    width: 150px;
+    height: 42px;
+}
+
+.Flooring-scope-container .Flooring-scope-table-container {
+    margin-left: 10px;
+    height: 400px;
+    width: 100%;
+}
+
+.Flooring-scope-container .Flooring-scope-table-cell.row-border-cell {
+    border-bottom: 1px solid #004d71;
+}
+
+.Flooring-scope-container .Flooring-scope-table-cell.row-border-cell.room-type {
+    background-color: #eee;
+}
+
+.my-element::after {
+    content: "There is no area found for this location in takeoff file.";
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 10px;
+    background-color: #70d4f5;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 14px;
+}

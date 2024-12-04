@@ -1,0 +1,17 @@
+.Content-placeholder-container {
+    background: #fff;
+    border: 1px solid #bcbcbb;
+    border-radius: 5px;
+    width: 100%;
+    align-items: center;
+}
+
+.Content-placeholder-section {
+    margin: auto;
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #410099;
+}

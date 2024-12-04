@@ -1,0 +1,24 @@
+.Base-dialog-button {
+    cursor: pointer !important;
+}
+
+.Base-dialog-header {
+    display: flex !important;
+    align-items: center !important;
+    color: #001833 !important;
+    font-family: "IBM Plex Sans : Semibold : 18", sans-serif !important;
+}
+
+.Base-dialog-content {
+    font-family: "IBM Plex Sans : Regular : 14", sans-serif !important;
+    line-height: 18px !important;
+    display: flex !important;
+    align-items: center !important;
+    color: #001833 !important;
+}
+
+.Base-dialog-actions {
+    font-family: "IBM Plex Sans : Semibold : 16", sans-serif !important;
+    line-height: 21px !important;
+    justify-content: flex-start !important;
+}

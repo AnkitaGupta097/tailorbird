@@ -1,0 +1,11 @@
+.Active-projects-container {
+    text-align: center;
+}
+
+.Projects-create-container {
+    width: 900px;
+}
+
+.create-project-modal .MuiPaper-root {
+    max-width: 1000px !important;
+}
